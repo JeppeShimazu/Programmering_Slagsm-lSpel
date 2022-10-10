@@ -1,0 +1,15 @@
+C:\Users\jesper.asplund\Documents\Visual studios projects\Programmering_SlagsmålSpel\Slagsmål_Spel\Slagsmål_Spel\bin\Debug\net6.0\Slagsmål_Spel.exe
+C:\Users\jesper.asplund\Documents\Visual studios projects\Programmering_SlagsmålSpel\Slagsmål_Spel\Slagsmål_Spel\bin\Debug\net6.0\Slagsmål_Spel.deps.json
+C:\Users\jesper.asplund\Documents\Visual studios projects\Programmering_SlagsmålSpel\Slagsmål_Spel\Slagsmål_Spel\bin\Debug\net6.0\Slagsmål_Spel.runtimeconfig.json
+C:\Users\jesper.asplund\Documents\Visual studios projects\Programmering_SlagsmålSpel\Slagsmål_Spel\Slagsmål_Spel\bin\Debug\net6.0\Slagsmål_Spel.dll
+C:\Users\jesper.asplund\Documents\Visual studios projects\Programmering_SlagsmålSpel\Slagsmål_Spel\Slagsmål_Spel\bin\Debug\net6.0\Slagsmål_Spel.pdb
+C:\Users\jesper.asplund\Documents\Visual studios projects\Programmering_SlagsmålSpel\Slagsmål_Spel\Slagsmål_Spel\obj\Debug\net6.0\Slagsmål_Spel.csproj.AssemblyReference.cache
+C:\Users\jesper.asplund\Documents\Visual studios projects\Programmering_SlagsmålSpel\Slagsmål_Spel\Slagsmål_Spel\obj\Debug\net6.0\Slagsmål_Spel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesper.asplund\Documents\Visual studios projects\Programmering_SlagsmålSpel\Slagsmål_Spel\Slagsmål_Spel\obj\Debug\net6.0\Slagsmål_Spel.AssemblyInfoInputs.cache
+C:\Users\jesper.asplund\Documents\Visual studios projects\Programmering_SlagsmålSpel\Slagsmål_Spel\Slagsmål_Spel\obj\Debug\net6.0\Slagsmål_Spel.AssemblyInfo.cs
+C:\Users\jesper.asplund\Documents\Visual studios projects\Programmering_SlagsmålSpel\Slagsmål_Spel\Slagsmål_Spel\obj\Debug\net6.0\Slagsmål_Spel.csproj.CoreCompileInputs.cache
+C:\Users\jesper.asplund\Documents\Visual studios projects\Programmering_SlagsmålSpel\Slagsmål_Spel\Slagsmål_Spel\obj\Debug\net6.0\Slagsmål_Spel.dll
+C:\Users\jesper.asplund\Documents\Visual studios projects\Programmering_SlagsmålSpel\Slagsmål_Spel\Slagsmål_Spel\obj\Debug\net6.0\refint\Slagsmål_Spel.dll
+C:\Users\jesper.asplund\Documents\Visual studios projects\Programmering_SlagsmålSpel\Slagsmål_Spel\Slagsmål_Spel\obj\Debug\net6.0\Slagsmål_Spel.pdb
+C:\Users\jesper.asplund\Documents\Visual studios projects\Programmering_SlagsmålSpel\Slagsmål_Spel\Slagsmål_Spel\obj\Debug\net6.0\Slagsmål_Spel.genruntimeconfig.cache
+C:\Users\jesper.asplund\Documents\Visual studios projects\Programmering_SlagsmålSpel\Slagsmål_Spel\Slagsmål_Spel\obj\Debug\net6.0\ref\Slagsmål_Spel.dll
